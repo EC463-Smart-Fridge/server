@@ -1,0 +1,193 @@
+{
+    "id": 9425972,
+    "title": "Organic blueberry yogurt",
+    "price": 0.0,
+    "likes": 0,
+    "badges": [
+        "egg_free",
+        "msg_free",
+        "peanut_free",
+        "no_artificial_colors",
+        "no_artificial_flavors",
+        "nut_free",
+        "no_artificial_ingredients",
+        "corn_free",
+        "gluten_free",
+        "organic",
+        "soy_free"
+    ],
+    "importantBadges": [
+        "organic",
+        "gluten_free"
+    ],
+    "nutrition": {
+        "nutrients": [
+            {
+                "name": "Calcium",
+                "amount": 95.0,
+                "unit": "mg",
+                "percentOfDailyNeeds": 9.5
+            },
+            {
+                "name": "Carbohydrates",
+                "amount": 9.2,
+                "unit": "g",
+                "percentOfDailyNeeds": 3.07
+            },
+            {
+                "name": "Calories",
+                "amount": 114.2,
+                "unit": "kcal",
+                "percentOfDailyNeeds": 5.71
+            },
+            {
+                "name": "Fat",
+                "amount": 5.3,
+                "unit": "g",
+                "percentOfDailyNeeds": 8.15
+            },
+            {
+                "name": "Saturated Fat",
+                "amount": 3.4,
+                "unit": "g",
+                "percentOfDailyNeeds": 21.25
+            },
+            {
+                "name": "Protein",
+                "amount": 4.5,
+                "unit": "g",
+                "percentOfDailyNeeds": 9.0
+            },
+            {
+                "name": "Sodium",
+                "amount": 0.16,
+                "unit": "mg",
+                "percentOfDailyNeeds": 0.01
+            },
+            {
+                "name": "Sugar",
+                "amount": 8.8,
+                "unit": "g",
+                "percentOfDailyNeeds": 9.78
+            },
+            {
+                "name": "Net Carbohydrates",
+                "amount": 9.2,
+                "unit": "g",
+                "percentOfDailyNeeds": 3.35
+            }
+        ],
+        "caloricBreakdown": {
+            "percentProtein": 17.56,
+            "percentFat": 46.54,
+            "percentCarbs": 35.9
+        },
+        "calories": 114.19999694824219,
+        "fat": "5.300000190734863g",
+        "protein": "4.5g",
+        "carbs": "9.199999809265137g"
+    },
+    "servings": {
+        "number": 7.0,
+        "size": 100.0,
+        "unit": "100g"
+    },
+    "spoonacularScore": 82.5,
+    "breadcrumbs": [
+        "yogurt",
+        "breakfast",
+        "menu item type"
+    ],
+    "aisle": "Milk, Eggs, Other Dairy",
+    "description": null,
+    "image": "https://spoonacular.com/productImages/9425972-312x231.jpg",
+    "imageType": "jpg",
+    "images": [
+        "https://spoonacular.com/productImages/9425972-90x90.jpg",
+        "https://spoonacular.com/productImages/9425972-312x231.jpg",
+        "https://spoonacular.com/productImages/9425972-636x393.jpg"
+    ],
+    "generatedText": "Organic blueberry yogurt: This yoghurt is tremendous for anyone who needs foods suitable for a primal diet. According to our research, this product contains no ingredients that you should avoid. This product has 15 ingredients (in our experience: the fewer ingredients, the better!)",
+    "upc": "9343787001503",
+    "brand": null,
+    "ingredients": [
+        {
+            "name": "milk solids",
+            "safety_level": null,
+            "description": null
+        },
+        {
+            "name": "incl",
+            "safety_level": null,
+            "description": null
+        },
+        {
+            "name": "natural colour",
+            "safety_level": null,
+            "description": null
+        },
+        {
+            "name": "bifidus",
+            "safety_level": null,
+            "description": null
+        },
+        {
+            "name": "live cultures",
+            "safety_level": null,
+            "description": null
+        },
+        {
+            "name": "natural blueberry flavour",
+            "safety_level": null,
+            "description": null
+        },
+        {
+            "name": "probiotics acidophilus",
+            "safety_level": null,
+            "description": null
+        },
+        {
+            "name": "purple carrot concentrate",
+            "safety_level": null,
+            "description": null
+        },
+        {
+            "name": "milk",
+            "safety_level": null,
+            "description": null
+        },
+        {
+            "name": "raw sugar",
+            "safety_level": null,
+            "description": null
+        },
+        {
+            "name": "pectin",
+            "safety_level": null,
+            "description": null
+        },
+        {
+            "name": "citric acid",
+            "safety_level": "high",
+            "description": null
+        },
+        {
+            "name": "cream",
+            "safety_level": null,
+            "description": null
+        },
+        {
+            "name": "rice starch",
+            "safety_level": "high",
+            "description": null
+        },
+        {
+            "name": "blueberries",
+            "safety_level": null,
+            "description": null
+        }
+    ],
+    "ingredientCount": 15,
+    "ingredientList": "Organic milk, organic raw sugar, organic blueberries (5%), organic cream, milk solids, organic milk solids, rice starch, natural blueberry flavour, pectin, natural colour (purple carrot concentrate), citric acid, live cultures (incl. probiotics acidophilus and bifidus)",
+    "cedits": "openfoodfacts.org"
+}
