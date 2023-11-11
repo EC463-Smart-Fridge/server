@@ -1,193 +1,308 @@
 {
-    "id": 9425972,
-    "title": "Organic blueberry yogurt",
-    "price": 0.0,
-    "likes": 0,
-    "badges": [
-        "egg_free",
-        "msg_free",
-        "peanut_free",
-        "no_artificial_colors",
-        "no_artificial_flavors",
-        "nut_free",
-        "no_artificial_ingredients",
-        "corn_free",
-        "gluten_free",
-        "organic",
-        "soy_free"
+    "totalHits": 1,
+    "currentPage": 1,
+    "totalPages": 1,
+    "pageList": [
+        1
     ],
-    "importantBadges": [
-        "organic",
-        "gluten_free"
-    ],
-    "nutrition": {
-        "nutrients": [
-            {
-                "name": "Calcium",
-                "amount": 95.0,
-                "unit": "mg",
-                "percentOfDailyNeeds": 9.5
-            },
-            {
-                "name": "Carbohydrates",
-                "amount": 9.2,
-                "unit": "g",
-                "percentOfDailyNeeds": 3.07
-            },
-            {
-                "name": "Calories",
-                "amount": 114.2,
-                "unit": "kcal",
-                "percentOfDailyNeeds": 5.71
-            },
-            {
-                "name": "Fat",
-                "amount": 5.3,
-                "unit": "g",
-                "percentOfDailyNeeds": 8.15
-            },
-            {
-                "name": "Saturated Fat",
-                "amount": 3.4,
-                "unit": "g",
-                "percentOfDailyNeeds": 21.25
-            },
-            {
-                "name": "Protein",
-                "amount": 4.5,
-                "unit": "g",
-                "percentOfDailyNeeds": 9.0
-            },
-            {
-                "name": "Sodium",
-                "amount": 0.16,
-                "unit": "mg",
-                "percentOfDailyNeeds": 0.01
-            },
-            {
-                "name": "Sugar",
-                "amount": 8.8,
-                "unit": "g",
-                "percentOfDailyNeeds": 9.78
-            },
-            {
-                "name": "Net Carbohydrates",
-                "amount": 9.2,
-                "unit": "g",
-                "percentOfDailyNeeds": 3.35
-            }
-        ],
-        "caloricBreakdown": {
-            "percentProtein": 17.56,
-            "percentFat": 46.54,
-            "percentCarbs": 35.9
-        },
-        "calories": 114.19999694824219,
-        "fat": "5.300000190734863g",
-        "protein": "4.5g",
-        "carbs": "9.199999809265137g"
+    "foodSearchCriteria": {
+        "query": "0024000258292",
+        "generalSearchInput": "0024000258292",
+        "pageNumber": 1,
+        "numberOfResultsPerPage": 50,
+        "pageSize": 50,
+        "requireAllWords": false
     },
-    "servings": {
-        "number": 7.0,
-        "size": 100.0,
-        "unit": "100g"
-    },
-    "spoonacularScore": 82.5,
-    "breadcrumbs": [
-        "yogurt",
-        "breakfast",
-        "menu item type"
-    ],
-    "aisle": "Milk, Eggs, Other Dairy",
-    "description": null,
-    "image": "https://spoonacular.com/productImages/9425972-312x231.jpg",
-    "imageType": "jpg",
-    "images": [
-        "https://spoonacular.com/productImages/9425972-90x90.jpg",
-        "https://spoonacular.com/productImages/9425972-312x231.jpg",
-        "https://spoonacular.com/productImages/9425972-636x393.jpg"
-    ],
-    "generatedText": "Organic blueberry yogurt: This yoghurt is tremendous for anyone who needs foods suitable for a primal diet. According to our research, this product contains no ingredients that you should avoid. This product has 15 ingredients (in our experience: the fewer ingredients, the better!)",
-    "upc": "9343787001503",
-    "brand": null,
-    "ingredients": [
+    "foods": [
         {
-            "name": "milk solids",
-            "safety_level": null,
-            "description": null
-        },
-        {
-            "name": "incl",
-            "safety_level": null,
-            "description": null
-        },
-        {
-            "name": "natural colour",
-            "safety_level": null,
-            "description": null
-        },
-        {
-            "name": "bifidus",
-            "safety_level": null,
-            "description": null
-        },
-        {
-            "name": "live cultures",
-            "safety_level": null,
-            "description": null
-        },
-        {
-            "name": "natural blueberry flavour",
-            "safety_level": null,
-            "description": null
-        },
-        {
-            "name": "probiotics acidophilus",
-            "safety_level": null,
-            "description": null
-        },
-        {
-            "name": "purple carrot concentrate",
-            "safety_level": null,
-            "description": null
-        },
-        {
-            "name": "milk",
-            "safety_level": null,
-            "description": null
-        },
-        {
-            "name": "raw sugar",
-            "safety_level": null,
-            "description": null
-        },
-        {
-            "name": "pectin",
-            "safety_level": null,
-            "description": null
-        },
-        {
-            "name": "citric acid",
-            "safety_level": "high",
-            "description": null
-        },
-        {
-            "name": "cream",
-            "safety_level": null,
-            "description": null
-        },
-        {
-            "name": "rice starch",
-            "safety_level": "high",
-            "description": null
-        },
-        {
-            "name": "blueberries",
-            "safety_level": null,
-            "description": null
+            "fdcId": 2611238,
+            "description": " BLUE LAKE CUT GREEN BEANS",
+            "dataType": "Branded",
+            "gtinUpc": "0024000258292",
+            "publishedDate": "2023-07-13",
+            "brandOwner": "Del Monte Foods Inc.",
+            "brandName": "DEL MONTE",
+            "subbrandName": "FRESH CUT",
+            "ingredients": "GREEN BEANS, WATER, SEA SALT",
+            "marketCountry": "United States",
+            "foodCategory": "Canned Vegetables",
+            "modifiedDate": "2023-06-30",
+            "dataSource": "LI",
+            "packageWeight": "14.5 oz",
+            "servingSizeUnit": "GRM",
+            "servingSize": 121.0,
+            "householdServingFullText": "1/2 cup (121g) Undrained (1/2 cup)",
+            "shortDescription": "",
+            "tradeChannels": [
+                "NO_TRADE_CHANNEL"
+            ],
+            "allHighlightFields": "<b>GTIN/UPC</b>: <em>0024000258292</em>",
+            "score": -567.63196,
+            "microbes": [],
+            "foodNutrients": [
+                {
+                    "nutrientId": 1003,
+                    "nutrientName": "Protein",
+                    "nutrientNumber": "203",
+                    "unitName": "G",
+                    "derivationCode": "LCCS",
+                    "derivationDescription": "Calculated from value per serving size measure",
+                    "derivationId": 70,
+                    "value": 0.83,
+                    "foodNutrientSourceId": 9,
+                    "foodNutrientSourceCode": "12",
+                    "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
+                    "rank": 600,
+                    "indentLevel": 1,
+                    "foodNutrientId": 32380258
+                },
+                {
+                    "nutrientId": 1004,
+                    "nutrientName": "Total lipid (fat)",
+                    "nutrientNumber": "204",
+                    "unitName": "G",
+                    "derivationCode": "LCCS",
+                    "derivationDescription": "Calculated from value per serving size measure",
+                    "derivationId": 70,
+                    "value": 0.0,
+                    "foodNutrientSourceId": 9,
+                    "foodNutrientSourceCode": "12",
+                    "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
+                    "rank": 800,
+                    "indentLevel": 1,
+                    "foodNutrientId": 32380259,
+                    "percentDailyValue": 0
+                },
+                {
+                    "nutrientId": 1005,
+                    "nutrientName": "Carbohydrate, by difference",
+                    "nutrientNumber": "205",
+                    "unitName": "G",
+                    "derivationCode": "LCCS",
+                    "derivationDescription": "Calculated from value per serving size measure",
+                    "derivationId": 70,
+                    "value": 2.48,
+                    "foodNutrientSourceId": 9,
+                    "foodNutrientSourceCode": "12",
+                    "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
+                    "rank": 1110,
+                    "indentLevel": 2,
+                    "foodNutrientId": 32380260,
+                    "percentDailyValue": 1
+                },
+                {
+                    "nutrientId": 1008,
+                    "nutrientName": "Energy",
+                    "nutrientNumber": "208",
+                    "unitName": "KCAL",
+                    "derivationCode": "LCCS",
+                    "derivationDescription": "Calculated from value per serving size measure",
+                    "derivationId": 70,
+                    "value": 17.0,
+                    "foodNutrientSourceId": 9,
+                    "foodNutrientSourceCode": "12",
+                    "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
+                    "rank": 300,
+                    "indentLevel": 1,
+                    "foodNutrientId": 32380261
+                },
+                {
+                    "nutrientId": 2000,
+                    "nutrientName": "Sugars, total including NLEA",
+                    "nutrientNumber": "269",
+                    "unitName": "G",
+                    "derivationCode": "LCCS",
+                    "derivationDescription": "Calculated from value per serving size measure",
+                    "derivationId": 70,
+                    "value": 0.83,
+                    "foodNutrientSourceId": 9,
+                    "foodNutrientSourceCode": "12",
+                    "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
+                    "rank": 1510,
+                    "indentLevel": 3,
+                    "foodNutrientId": 32380262
+                },
+                {
+                    "nutrientId": 1079,
+                    "nutrientName": "Fiber, total dietary",
+                    "nutrientNumber": "291",
+                    "unitName": "G",
+                    "derivationCode": "LCCS",
+                    "derivationDescription": "Calculated from value per serving size measure",
+                    "derivationId": 70,
+                    "value": 0.8,
+                    "foodNutrientSourceId": 9,
+                    "foodNutrientSourceCode": "12",
+                    "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
+                    "rank": 1200,
+                    "indentLevel": 3,
+                    "foodNutrientId": 32380263,
+                    "percentDailyValue": 4
+                },
+                {
+                    "nutrientId": 1087,
+                    "nutrientName": "Calcium, Ca",
+                    "nutrientNumber": "301",
+                    "unitName": "MG",
+                    "derivationCode": "LCCS",
+                    "derivationDescription": "Calculated from value per serving size measure",
+                    "derivationId": 70,
+                    "value": 26.0,
+                    "foodNutrientSourceId": 9,
+                    "foodNutrientSourceCode": "12",
+                    "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
+                    "rank": 5300,
+                    "indentLevel": 1,
+                    "foodNutrientId": 32380264,
+                    "percentDailyValue": 2
+                },
+                {
+                    "nutrientId": 1089,
+                    "nutrientName": "Iron, Fe",
+                    "nutrientNumber": "303",
+                    "unitName": "MG",
+                    "derivationCode": "LCCS",
+                    "derivationDescription": "Calculated from value per serving size measure",
+                    "derivationId": 70,
+                    "value": 0.41,
+                    "foodNutrientSourceId": 9,
+                    "foodNutrientSourceCode": "12",
+                    "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
+                    "rank": 5400,
+                    "indentLevel": 1,
+                    "foodNutrientId": 32380265,
+                    "percentDailyValue": 2
+                },
+                {
+                    "nutrientId": 1092,
+                    "nutrientName": "Potassium, K",
+                    "nutrientNumber": "306",
+                    "unitName": "MG",
+                    "derivationCode": "LCCS",
+                    "derivationDescription": "Calculated from value per serving size measure",
+                    "derivationId": 70,
+                    "value": 79.0,
+                    "foodNutrientSourceId": 9,
+                    "foodNutrientSourceCode": "12",
+                    "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
+                    "rank": 5700,
+                    "indentLevel": 1,
+                    "foodNutrientId": 32380266,
+                    "percentDailyValue": 2
+                },
+                {
+                    "nutrientId": 1093,
+                    "nutrientName": "Sodium, Na",
+                    "nutrientNumber": "307",
+                    "unitName": "MG",
+                    "derivationCode": "LCCS",
+                    "derivationDescription": "Calculated from value per serving size measure",
+                    "derivationId": 70,
+                    "value": 314,
+                    "foodNutrientSourceId": 9,
+                    "foodNutrientSourceCode": "12",
+                    "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
+                    "rank": 5800,
+                    "indentLevel": 1,
+                    "foodNutrientId": 32380267,
+                    "percentDailyValue": 17
+                },
+                {
+                    "nutrientId": 1114,
+                    "nutrientName": "Vitamin D (D2 + D3)",
+                    "nutrientNumber": "328",
+                    "unitName": "UG",
+                    "derivationCode": "LCCS",
+                    "derivationDescription": "Calculated from value per serving size measure",
+                    "derivationId": 70,
+                    "value": 0.0,
+                    "foodNutrientSourceId": 9,
+                    "foodNutrientSourceCode": "12",
+                    "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
+                    "rank": 8700,
+                    "indentLevel": 1,
+                    "foodNutrientId": 32380268,
+                    "percentDailyValue": 0
+                },
+                {
+                    "nutrientId": 1235,
+                    "nutrientName": "Sugars, added",
+                    "nutrientNumber": "539",
+                    "unitName": "G",
+                    "derivationCode": "LCCS",
+                    "derivationDescription": "Calculated from value per serving size measure",
+                    "derivationId": 70,
+                    "value": 0.0,
+                    "foodNutrientSourceId": 9,
+                    "foodNutrientSourceCode": "12",
+                    "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
+                    "rank": 1540,
+                    "indentLevel": 0,
+                    "foodNutrientId": 32380269,
+                    "percentDailyValue": 0
+                },
+                {
+                    "nutrientId": 1253,
+                    "nutrientName": "Cholesterol",
+                    "nutrientNumber": "601",
+                    "unitName": "MG",
+                    "derivationCode": "LCCS",
+                    "derivationDescription": "Calculated from value per serving size measure",
+                    "derivationId": 70,
+                    "value": 0.0,
+                    "foodNutrientSourceId": 9,
+                    "foodNutrientSourceCode": "12",
+                    "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
+                    "rank": 15700,
+                    "indentLevel": 1,
+                    "foodNutrientId": 32380270,
+                    "percentDailyValue": 0
+                },
+                {
+                    "nutrientId": 1257,
+                    "nutrientName": "Fatty acids, total trans",
+                    "nutrientNumber": "605",
+                    "unitName": "G",
+                    "derivationCode": "LCCS",
+                    "derivationDescription": "Calculated from value per serving size measure",
+                    "derivationId": 70,
+                    "value": 0.0,
+                    "foodNutrientSourceId": 9,
+                    "foodNutrientSourceCode": "12",
+                    "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
+                    "rank": 15400,
+                    "indentLevel": 1,
+                    "foodNutrientId": 32380271
+                },
+                {
+                    "nutrientId": 1258,
+                    "nutrientName": "Fatty acids, total saturated",
+                    "nutrientNumber": "606",
+                    "unitName": "G",
+                    "derivationCode": "LCCS",
+                    "derivationDescription": "Calculated from value per serving size measure",
+                    "derivationId": 70,
+                    "value": 0.0,
+                    "foodNutrientSourceId": 9,
+                    "foodNutrientSourceCode": "12",
+                    "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
+                    "rank": 9700,
+                    "indentLevel": 1,
+                    "foodNutrientId": 32380272,
+                    "percentDailyValue": 0
+                }
+            ],
+            "finalFoodInputFoods": [],
+            "foodMeasures": [],
+            "foodAttributes": [],
+            "foodAttributeTypes": [],
+            "foodVersionIds": []
         }
     ],
-    "ingredientCount": 15,
-    "ingredientList": "Organic milk, organic raw sugar, organic blueberries (5%), organic cream, milk solids, organic milk solids, rice starch, natural blueberry flavour, pectin, natural colour (purple carrot concentrate), citric acid, live cultures (incl. probiotics acidophilus and bifidus)",
-    "cedits": "openfoodfacts.org"
+    "aggregations": {
+        "dataType": {
+            "Branded": 1
+        },
+        "nutrients": {}
+    }
 }

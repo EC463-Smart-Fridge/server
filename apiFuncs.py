@@ -5,7 +5,7 @@ import os
 
 def findProductUsingUPC(upc, api_key):
     # Define the API endpoint URL
-    url = f"https://api.spoonacular.com/food/products/upc/{upc}?apiKey={api_key}"
+    url = f"https://api.nal.usda.gov/fdc/v1/foods/search?api_key={api_key}&query={upc}"
 
     try:
         # Send an HTTP GET request to the API endpoint
@@ -30,8 +30,8 @@ def findProductUsingUPC(upc, api_key):
 
 def main():
     # Replace these placeholders with your actual UPC and API key
-    upc = "9343787001503"
-    api_key = ""
+    upc = "0024000258292"
+    api_key = "DEMO_KEY"
 
     findProductUsingUPC(upc, api_key)
 
