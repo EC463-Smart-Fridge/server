@@ -1,7 +1,8 @@
 import requests
 import json
 import os
-# Access the secrets
+
+# Access the secrets / api keys stored in github secrets
 
 def findProductUsingUPC(upc, api_key):
     # Define the API endpoint URL
@@ -27,13 +28,39 @@ def findProductUsingUPC(upc, api_key):
     except Exception as e:
         print(f"An error occurred: {str(e)}")
 
+def getInfoFromJSON(filename):
+    print("Getting info...")
+
+    # Specify the path to the JSON file
+    jsonFilePath = filename
+
+    # Open the JSON file
+    with open(jsonFilePath, 'r') as file:
+        # Load the JSON data
+        data = json.load(file)
+    
+    name = data["foods"][0]["description"].lstrip().capitalize()
+    category = data["foods"][0]["foodCategory"].lstrip().capitalize()
+
+    #Find block with kcal info
+    found_block = None
+    for block in data:
+        if data["foods"][0]["foodNutrients"][int(block)]["value"] == 1008:
+            found_block = int(block)
+            break
+    calories = 0 # data["foods"][0]["foodNutrients"][found_block]["value"].lstrip().capitalize()
+
+    return name, category, calories
 
 def main():
     # Replace these placeholders with your actual UPC and API key
-    upc = "0024000258292"
+    upc = "010300064220"
     api_key = "DEMO_KEY"
 
     findProductUsingUPC(upc, api_key)
+    name, category, cal = getInfoFromJSON("output.json")
+
+    print(name, category, cal)
 
 #Testing help
 if __name__ == "__main__":
