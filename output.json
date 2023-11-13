@@ -6,8 +6,8 @@
         1
     ],
     "foodSearchCriteria": {
-        "query": "010300064220",
-        "generalSearchInput": "010300064220",
+        "query": "878589001707 ",
+        "generalSearchInput": "878589001707 ",
         "pageNumber": 1,
         "numberOfResultsPerPage": 50,
         "pageSize": 50,
@@ -15,25 +15,26 @@
     },
     "foods": [
         {
-            "fdcId": 1861692,
-            "description": " BERRY NUT BLEND BREAKFAST IN THE GO! ",
+            "fdcId": 1917952,
+            "description": " HOT CHOCO LATE, ORANGE",
             "dataType": "Branded",
-            "gtinUpc": "010300064220",
+            "gtinUpc": "878589001707",
             "publishedDate": "2021-07-29",
-            "brandOwner": "Snyder's-Lance, Inc.",
-            "brandName": "EMERALD",
-            "ingredients": "VANILLA GRANOLA (ROLLED OATS, BROWN SUGAR, WHEAT FLAKES, WHOLE OAT FLOUR, CANOLA OIL, CORN SYRUP, RICE FLOUR, ARTIFICIAL FLAVOR, SALT, MIXED TOCOPHEROLS [TO PRESERVE FRESHNESS], RICE EXTRACT, DISTILLED MONOGLYCERIDES, BARLEY MALT EXTRACT), COCKTAIL PEANUTS (PEANUTS, PEANUT AND/OR COTTONSEED OIL, SALT), YOGURT FLAVORED RAISINS (YOGURT COATING [SUGAR, PARTIALLY HYDROGENATED PALM KERNEL OIL, CALCIUM CARBONATE, YOGURT POWDER {CULTURED WHEY PROTEIN CONCENTRATE, CULTURED SKIM MILK, AND YOGURT CULTURE}, ARTIFICIAL COLOR, SOY LECITHIN {AN EMULSIFIER}, NATURAL FLAVOR], RAISINS, SUNFLOWER OIL, CORN SYRUP, MODIFIED STARCH, COCONUT OIL, CONFECTIONER'S GLAZE), INFUSED DRIED CRANBERRIES (SLICED CRANBERRIES, SUGAR, GLYCERIN, SUNFLOWER OIL), GLAZED WALNUTS (WALNUTS, SUGAR, CORN SYRUP, SESAME SEEDS, SALT, CANOLA OIL, NATURAL FLAVORS, SOY LECITHIN [AN EMULISIFIER], CITRIC ACID), INFUSED DRIED BLUEBERRY FLAVORED CRANBERRIES (SLICED CRANBERRIES, SUGAR, BLUEBERRY JUICE, SUNFLOWER OIL, NATURAL BLUEBERRY FLAVOR, MALIC ACID), DUSTED WITH: MALTODEXTRIN, MANNITOL, MODIFIED CELLULOSE.",
+            "brandOwner": "Beaumont Corp.",
+            "brandName": "CHOCOLATERIE MONBANA",
+            "subbrandName": "ORGANIC",
+            "ingredients": "ORGANIC CANE SUGAR*, ORGANIC FAT REDUCED COCOA POWDER*, NATURAL ORANGE FLAVOR.",
             "marketCountry": "United States",
-            "foodCategory": "Popcorn, Peanuts, Seeds & Related Snacks",
-            "modifiedDate": "2018-09-08",
+            "foodCategory": "Powdered Drinks",
+            "modifiedDate": "2017-10-13",
             "dataSource": "LI",
-            "packageWeight": "212.5 g/7.5 oz",
+            "packageWeight": "8 oz/227 g",
             "servingSizeUnit": "g",
-            "servingSize": 42.5,
+            "servingSize": 20.0,
             "tradeChannels": [
                 "NO_TRADE_CHANNEL"
             ],
-            "allHighlightFields": "<b>GTIN/UPC</b>: <em>010300064220</em>",
+            "allHighlightFields": "<b>GTIN/UPC</b>: <em>878589001707</em>",
             "score": -567.63196,
             "microbes": [],
             "foodNutrients": [
@@ -45,13 +46,13 @@
                     "derivationCode": "LCCS",
                     "derivationDescription": "Calculated from value per serving size measure",
                     "derivationId": 70,
-                    "value": 9.41,
+                    "value": 10.0,
                     "foodNutrientSourceId": 9,
                     "foodNutrientSourceCode": "12",
                     "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
                     "rank": 600,
                     "indentLevel": 1,
-                    "foodNutrientId": 23615938
+                    "foodNutrientId": 23292314
                 },
                 {
                     "nutrientId": 1004,
@@ -61,14 +62,14 @@
                     "derivationCode": "LCCS",
                     "derivationDescription": "Calculated from value per serving size measure",
                     "derivationId": 70,
-                    "value": 21.2,
+                    "value": 5.0,
                     "foodNutrientSourceId": 9,
                     "foodNutrientSourceCode": "12",
                     "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
                     "rank": 800,
                     "indentLevel": 1,
-                    "foodNutrientId": 23615939,
-                    "percentDailyValue": 14
+                    "foodNutrientId": 23292315,
+                    "percentDailyValue": 1
                 },
                 {
                     "nutrientId": 1005,
@@ -78,14 +79,14 @@
                     "derivationCode": "LCCS",
                     "derivationDescription": "Calculated from value per serving size measure",
                     "derivationId": 70,
-                    "value": 58.8,
+                    "value": 80.0,
                     "foodNutrientSourceId": 9,
                     "foodNutrientSourceCode": "12",
                     "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
                     "rank": 1110,
                     "indentLevel": 2,
-                    "foodNutrientId": 23615940,
-                    "percentDailyValue": 8
+                    "foodNutrientId": 23292316,
+                    "percentDailyValue": 5
                 },
                 {
                     "nutrientId": 1008,
@@ -95,13 +96,13 @@
                     "derivationCode": "LCCS",
                     "derivationDescription": "Calculated from value per serving size measure",
                     "derivationId": 70,
-                    "value": 447,
+                    "value": 335,
                     "foodNutrientSourceId": 9,
                     "foodNutrientSourceCode": "12",
                     "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
                     "rank": 300,
                     "indentLevel": 1,
-                    "foodNutrientId": 23615941
+                    "foodNutrientId": 23292317
                 },
                 {
                     "nutrientId": 2000,
@@ -111,13 +112,13 @@
                     "derivationCode": "LCCS",
                     "derivationDescription": "Calculated from value per serving size measure",
                     "derivationId": 70,
-                    "value": 40.0,
+                    "value": 65.0,
                     "foodNutrientSourceId": 9,
                     "foodNutrientSourceCode": "12",
                     "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
                     "rank": 1510,
                     "indentLevel": 3,
-                    "foodNutrientId": 23615942
+                    "foodNutrientId": 23292318
                 },
                 {
                     "nutrientId": 1079,
@@ -127,14 +128,14 @@
                     "derivationCode": "LCCS",
                     "derivationDescription": "Calculated from value per serving size measure",
                     "derivationId": 70,
-                    "value": 7.1,
+                    "value": 10.0,
                     "foodNutrientSourceId": 9,
                     "foodNutrientSourceCode": "12",
                     "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
                     "rank": 1200,
                     "indentLevel": 3,
-                    "foodNutrientId": 23615943,
-                    "percentDailyValue": 11
+                    "foodNutrientId": 23292319,
+                    "percentDailyValue": 10
                 },
                 {
                     "nutrientId": 1087,
@@ -144,14 +145,14 @@
                     "derivationCode": "LCCD",
                     "derivationDescription": "Calculated from a daily value percentage per serving size measure",
                     "derivationId": 75,
-                    "value": 188,
+                    "value": 0.0,
                     "foodNutrientSourceId": 9,
                     "foodNutrientSourceCode": "12",
                     "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
                     "rank": 5300,
                     "indentLevel": 1,
-                    "foodNutrientId": 23615944,
-                    "percentDailyValue": 8
+                    "foodNutrientId": 23292320,
+                    "percentDailyValue": 0
                 },
                 {
                     "nutrientId": 1089,
@@ -161,14 +162,14 @@
                     "derivationCode": "LCCD",
                     "derivationDescription": "Calculated from a daily value percentage per serving size measure",
                     "derivationId": 75,
-                    "value": 2.54,
+                    "value": 22.5,
                     "foodNutrientSourceId": 9,
                     "foodNutrientSourceCode": "12",
                     "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
                     "rank": 5400,
                     "indentLevel": 1,
-                    "foodNutrientId": 23615945,
-                    "percentDailyValue": 6
+                    "foodNutrientId": 23292321,
+                    "percentDailyValue": 25
                 },
                 {
                     "nutrientId": 1093,
@@ -178,14 +179,14 @@
                     "derivationCode": "LCCS",
                     "derivationDescription": "Calculated from value per serving size measure",
                     "derivationId": 70,
-                    "value": 153,
+                    "value": 5.0,
                     "foodNutrientSourceId": 9,
                     "foodNutrientSourceCode": "12",
                     "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
                     "rank": 5800,
                     "indentLevel": 1,
-                    "foodNutrientId": 23615946,
-                    "percentDailyValue": 3
+                    "foodNutrientId": 23292322,
+                    "percentDailyValue": 0
                 },
                 {
                     "nutrientId": 1104,
@@ -201,7 +202,7 @@
                     "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
                     "rank": 7500,
                     "indentLevel": 1,
-                    "foodNutrientId": 23615947,
+                    "foodNutrientId": 23292323,
                     "percentDailyValue": 0
                 },
                 {
@@ -218,7 +219,7 @@
                     "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
                     "rank": 6300,
                     "indentLevel": 1,
-                    "foodNutrientId": 23615948,
+                    "foodNutrientId": 23292324,
                     "percentDailyValue": 0
                 },
                 {
@@ -235,7 +236,7 @@
                     "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
                     "rank": 15700,
                     "indentLevel": 1,
-                    "foodNutrientId": 23615949,
+                    "foodNutrientId": 23292325,
                     "percentDailyValue": 0
                 },
                 {
@@ -252,7 +253,7 @@
                     "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
                     "rank": 15400,
                     "indentLevel": 1,
-                    "foodNutrientId": 23615950
+                    "foodNutrientId": 23292326
                 },
                 {
                     "nutrientId": 1258,
@@ -262,14 +263,14 @@
                     "derivationCode": "LCCS",
                     "derivationDescription": "Calculated from value per serving size measure",
                     "derivationId": 70,
-                    "value": 4.71,
+                    "value": 5.0,
                     "foodNutrientSourceId": 9,
                     "foodNutrientSourceCode": "12",
                     "foodNutrientSourceDescription": "Manufacturer's analytical; partial documentation",
                     "rank": 9700,
                     "indentLevel": 1,
-                    "foodNutrientId": 23615951,
-                    "percentDailyValue": 10
+                    "foodNutrientId": 23292327,
+                    "percentDailyValue": 3
                 }
             ],
             "finalFoodInputFoods": [],

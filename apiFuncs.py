@@ -43,18 +43,17 @@ def getInfoFromJSON(filename):
     category = data["foods"][0]["foodCategory"].lstrip().capitalize()
 
     #Find block with kcal info
-    found_block = None
-    for block in data:
-        if data["foods"][0]["foodNutrients"][int(block)]["value"] == 1008:
-            found_block = int(block)
+    calories = 0
+    for index, block in enumerate(data["foods"][0]["foodNutrients"]):
+        if block["nutrientId"] == 1008:
+            calories = block["value"]
             break
-    calories = 0 # data["foods"][0]["foodNutrients"][found_block]["value"].lstrip().capitalize()
 
     return name, category, calories
 
 def main():
     # Replace these placeholders with your actual UPC and API key
-    upc = "010300064220"
+    upc = "878589001707 "
     api_key = "DEMO_KEY"
 
     findProductUsingUPC(upc, api_key)
